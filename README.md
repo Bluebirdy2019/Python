@@ -1,0 +1,2 @@
+# Python
+Hello, my name is Ana-Maria O'Brien. I am undertaking my Second Masters this one in Data Science and Analythics. My background is not related to coding or maths in any way. But I worked hard and I can now tell you I can code. It was not easy but through taking loads of Datacamp courses I've become more proficient and it honestly makes me feel so proud of what I have achieved. I hope what I've done is useful to some of you. 
